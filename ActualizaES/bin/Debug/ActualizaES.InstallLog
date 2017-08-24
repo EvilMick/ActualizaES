@@ -1,0 +1,126 @@
+﻿Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+Creando el origen de EventLog ActualizaES en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Restaurando el registro de eventos al estado anterior para el origen ActualizaES.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+Creando el origen de EventLog ActualizaES en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Restaurando el registro de eventos al estado anterior para el origen ActualizaES.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+El servicio ActualizaES se ha instalado correctamente.
+Creando el origen de EventLog ActualizaES en el registro Application...
+Confirmando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Desinstalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Quitando el origen de EventLog ActualizaES.
+Se está quitando el servicio ActualizaES del sistema...
+El servicio ActualizaES se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+El servicio ActualizaES se ha instalado correctamente.
+Creando el origen de EventLog ActualizaES en el registro Application...
+Confirmando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Desinstalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Quitando el origen de EventLog ActualizaES.
+Se está quitando el servicio ActualizaES del sistema...
+El servicio ActualizaES se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+Creando el origen de EventLog ActualizaES en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Restaurando el registro de eventos al estado anterior para el origen ActualizaES.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+Creando el origen de EventLog ActualizaES en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Restaurando el registro de eventos al estado anterior para el origen ActualizaES.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+Creando el origen de EventLog ActualizaES en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Restaurando el registro de eventos al estado anterior para el origen ActualizaES.
+Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+Instalando el servicio ActualizaES...
+El servicio ActualizaES se ha instalado correctamente.
+Creando el origen de EventLog ActualizaES en el registro Application...
+Confirmando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe

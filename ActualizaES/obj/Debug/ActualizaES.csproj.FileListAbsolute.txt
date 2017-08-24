@@ -1,0 +1,16 @@
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe.config
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.exe
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\ActualizaES.pdb
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\AngleSharp.dll
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Nest.dll
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\AngleSharp.xml
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Nest.xml
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\obj\Debug\ActualizaES.ProjectInstaller.resources
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\obj\Debug\ActualizaES.csproj.GenerateResource.Cache
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\obj\Debug\ActualizaES.exe
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\obj\Debug\ActualizaES.pdb
+C:\Users\Miguel Angel\Documents\Repositorios\ActualizaES\ActualizaES\obj\Debug\ActualizaES.csprojResolveAssemblyReference.cache

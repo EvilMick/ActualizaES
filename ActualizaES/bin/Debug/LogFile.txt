@@ -1,0 +1,172 @@
+26/07/2017 18:44:28: Comienzo actualización de datos
+26/07/2017 18:50:09: Comienzo actualización de datos
+26/07/2017 19:18:13: Comienzo actualización de datos
+26/07/2017 19:19:45: Actualización completada
+26/07/2017 19:20:34: Actualización completada
+26/07/2017 19:21:35: Actualización completada
+26/07/2017 19:22:33: Actualización completada
+26/07/2017 19:23:36: Actualización completada
+26/07/2017 19:24:33: Actualización completada
+26/07/2017 19:25:36: Actualización completada
+26/07/2017 19:26:33: Actualización completada
+26/07/2017 19:27:34: Actualización completada
+26/07/2017 19:28:34: Actualización completada
+26/07/2017 19:29:35: Actualización completada
+26/07/2017 19:30:37: Actualización completada
+26/07/2017 19:31:32: Actualización completada
+26/07/2017 19:32:35: Actualización completada
+27/07/2017 11:27:22: Comienzo actualización de datos
+27/07/2017 11:32:57: Actualización completada
+27/07/2017 11:37:46: Actualización completada
+27/07/2017 11:42:47: Actualización completada
+27/07/2017 11:47:46: Actualización completada
+27/07/2017 11:52:47: Actualización completada
+31/07/2017 17:21:53: Comienzo actualización de datos
+31/07/2017 17:27:25: Actualización completada
+31/07/2017 17:32:17: Actualización completada
+31/07/2017 17:37:16: Actualización completada
+31/07/2017 17:42:17: Actualización completada
+01/08/2017 9:50:07: Comienzo actualización de datos
+01/08/2017 9:56:40: Actualización completada
+01/08/2017 10:00:40: Actualización completada
+01/08/2017 10:05:32: Actualización completada
+01/08/2017 10:10:35: Actualización completada
+01/08/2017 10:12:52: Comienzo actualización de datos
+01/08/2017 10:18:20: Actualización completada
+01/08/2017 10:23:15: Actualización completada
+01/08/2017 10:33:58: Comienzo actualización de datos
+01/08/2017 10:39:26: Actualización completada
+01/08/2017 11:05:02: Comienzo actualización de datos
+01/08/2017 11:10:30: Actualización completada
+01/08/2017 11:18:18: Comienzo actualización de datos
+01/08/2017 11:23:43: Actualización completada
+01/08/2017 11:28:44: Actualización completada
+01/08/2017 11:33:24: Actualización completada
+02/08/2017 12:25:19: Comienzo actualización de datos
+02/08/2017 12:30:34: Actualización completada
+02/08/2017 18:57:21: Comienzo actualización de datos
+02/08/2017 19:02:47: Actualización completada
+02/08/2017 19:07:39: Actualización completada
+03/08/2017 10:52:31: Comienzo actualización de datos
+03/08/2017 10:57:54: Actualización completada
+03/08/2017 20:49:35: Comienzo actualización de datos
+03/08/2017 20:54:51: Actualización completada
+03/08/2017 20:59:41: Actualización completada
+03/08/2017 21:04:38: Actualización completada
+03/08/2017 21:09:40: Actualización completada
+03/08/2017 21:14:41: Actualización completada
+03/08/2017 21:19:41: Actualización completada
+03/08/2017 21:24:41: Actualización completada
+03/08/2017 21:29:40: Actualización completada
+03/08/2017 21:34:41: Actualización completada
+07/08/2017 19:07:38: Comienzo actualización de datos
+07/08/2017 19:13:11: Actualización completada
+08/08/2017 12:44:14: Comienzo actualización de datos
+08/08/2017 12:49:45: Actualización completada
+09/08/2017 13:31:59: Comienzo actualización de datos
+09/08/2017 13:37:33: Actualización completada
+09/08/2017 20:31:38: Comienzo actualización de datos
+09/08/2017 20:37:08: Actualización completada
+09/08/2017 20:42:01: Actualización completada
+09/08/2017 20:46:58: Actualización completada
+09/08/2017 20:52:02: Actualización completada
+09/08/2017 20:57:01: Actualización completada
+09/08/2017 21:02:02: Actualización completada
+09/08/2017 21:07:01: Actualización completada
+09/08/2017 21:12:00: Actualización completada
+09/08/2017 21:17:00: Actualización completada
+09/08/2017 21:22:01: Actualización completada
+09/08/2017 21:27:01: Actualización completada
+09/08/2017 21:32:01: Actualización completada
+09/08/2017 21:37:00: Actualización completada
+09/08/2017 21:42:00: Actualización completada
+09/08/2017 21:47:00: Actualización completada
+09/08/2017 21:52:01: Actualización completada
+09/08/2017 21:59:01: Actualización completada
+09/08/2017 22:04:01: Actualización completada
+09/08/2017 22:09:00: Actualización completada
+09/08/2017 22:14:02: Actualización completada
+09/08/2017 22:19:01: Actualización completada
+09/08/2017 22:24:02: Actualización completada
+09/08/2017 22:29:02: Actualización completada
+09/08/2017 22:34:02: Actualización completada
+09/08/2017 22:39:01: Actualización completada
+09/08/2017 22:44:01: Actualización completada
+09/08/2017 22:49:01: Actualización completada
+09/08/2017 22:54:00: Actualización completada
+09/08/2017 22:59:01: Actualización completada
+09/08/2017 23:04:01: Actualización completada
+09/08/2017 23:09:02: Actualización completada
+09/08/2017 23:14:03: Actualización completada
+09/08/2017 23:19:02: Actualización completada
+09/08/2017 23:24:02: Actualización completada
+09/08/2017 23:29:05: Actualización completada
+09/08/2017 23:34:03: Actualización completada
+09/08/2017 23:39:02: Actualización completada
+09/08/2017 23:44:00: Actualización completada
+09/08/2017 23:49:01: Actualización completada
+09/08/2017 23:54:01: Actualización completada
+09/08/2017 23:59:00: Actualización completada
+10/08/2017 0:04:00: Actualización completada
+10/08/2017 0:09:00: Actualización completada
+10/08/2017 0:14:00: Actualización completada
+10/08/2017 0:19:04: Actualización completada
+10/08/2017 0:24:05: Actualización completada
+10/08/2017 0:29:00: Actualización completada
+10/08/2017 0:34:03: Actualización completada
+10/08/2017 20:02:46: Comienzo actualización de datos
+10/08/2017 20:09:53: Actualización completada
+10/08/2017 20:13:15: Actualización completada
+10/08/2017 20:18:11: Actualización completada
+10/08/2017 20:23:13: Actualización completada
+14/08/2017 10:44:35: Comienzo actualización de datos
+14/08/2017 10:50:14: Actualización completada
+14/08/2017 10:54:58: Actualización completada
+14/08/2017 11:00:01: Actualización completada
+14/08/2017 11:04:59: Actualización completada
+14/08/2017 19:43:17: Comienzo actualización de datos
+14/08/2017 19:48:49: Actualización completada
+14/08/2017 19:53:40: Actualización completada
+14/08/2017 19:58:39: Actualización completada
+14/08/2017 20:03:40: Actualización completada
+15/08/2017 14:04:19: Comienzo actualización de datos
+15/08/2017 14:09:52: Actualización completada
+15/08/2017 14:14:41: Actualización completada
+15/08/2017 14:19:42: Actualización completada
+15/08/2017 18:33:30: Comienzo actualización de datos
+15/08/2017 18:38:59: Actualización completada
+16/08/2017 11:15:38: Comienzo actualización de datos
+16/08/2017 11:21:12: Actualización completada
+16/08/2017 18:22:19: Comienzo actualización de datos
+16/08/2017 18:28:02: Actualización completada
+16/08/2017 18:32:41: Actualización completada
+17/08/2017 12:29:00: Comienzo actualización de datos
+17/08/2017 12:34:55: Actualización completada
+17/08/2017 12:39:25: Actualización completada
+18/08/2017 12:25:34: Comienzo actualización de datos
+18/08/2017 12:31:38: Actualización completada
+18/08/2017 12:35:57: Actualización completada
+18/08/2017 12:40:58: Actualización completada
+18/08/2017 12:45:57: Actualización completada
+21/08/2017 10:43:48: Comienzo actualización de datos
+21/08/2017 10:49:27: Actualización completada
+21/08/2017 10:54:11: Actualización completada
+21/08/2017 10:59:12: Actualización completada
+21/08/2017 11:04:11: Actualización completada
+21/08/2017 21:17:11: Comienzo actualización de datos
+21/08/2017 21:22:40: Actualización completada
+21/08/2017 21:27:34: Actualización completada
+21/08/2017 21:32:34: Actualización completada
+22/08/2017 12:15:38: Comienzo actualización de datos
+22/08/2017 12:21:19: Actualización completada
+22/08/2017 12:26:01: Actualización completada
+23/08/2017 11:20:09: Comienzo actualización de datos
+23/08/2017 11:25:49: Actualización completada
+23/08/2017 11:30:34: Actualización completada
+23/08/2017 11:35:34: Actualización completada
+23/08/2017 11:40:34: Actualización completada
+23/08/2017 14:18:07: Comienzo actualización de datos
+23/08/2017 14:23:38: Actualización completada
+24/08/2017 16:20:29: Comienzo actualización de datos
+24/08/2017 16:26:02: Actualización completada
+24/08/2017 16:30:55: Actualización completada
