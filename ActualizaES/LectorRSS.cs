@@ -226,7 +226,7 @@ namespace ActualizaES
                                 break;
                             case "description":
                                 descripcion = descriptionOviEspa(dato.InnerText);
-                                imagen = "no";
+                                imagen = imgOviEspa(link);                               
                                 break;
 
                         }
@@ -385,6 +385,40 @@ namespace ActualizaES
 
             }
             return etiquetas;
+
+        }
+
+        public string imgOviEspa(string enlace)
+        {
+            string imagen = null;
+            string contenido = null;
+            try
+            {
+                HttpWebRequest myRequest = (HttpWebRequest)WebRequest.Create(enlace);
+                myRequest.Method = "GET";
+                WebResponse myResponse = myRequest.GetResponse();
+                StreamReader sr = new StreamReader(myResponse.GetResponseStream(), System.Text.Encoding.UTF8);
+                contenido = sr.ReadToEnd();
+                sr.Close();
+                myResponse.Close();
+
+            }
+            catch (Exception ex)
+            {
+            }
+
+            var parser = new HtmlParser();
+            var document = parser.Parse(contenido);
+            try
+            {
+                imagen = "https://www.oviespana.com" + document.GetElementsByClassName("itemBody")[0].Children[0].GetElementsByTagName("img")[0].GetAttribute("src").ToString();
+            }
+            catch (Exception ex)
+            {
+                imagen = "no";
+            }
+            
+            return imagen;
 
         }
 
