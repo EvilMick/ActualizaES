@@ -28,6 +28,8 @@ namespace ActualizaES
 
         protected override void OnStop()
         {
+            timer1.Enabled = false;
+            Librería.WriteErrorLog("El servicio se ha detenido");
         }
     }
 }
